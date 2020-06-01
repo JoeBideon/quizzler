@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="backgroundANIMObject.svg"
+   id="svg849"
+   viewBox="0 0 71.947 72.268"
+   version="1.1"
+   height="273.14"
+   width="271.93">
+  <sodipodi:namedview
+     inkscape:current-layer="g847"
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:cy="190.6047"
+     inkscape:cx="-131.97416"
+     inkscape:zoom="0.63166891"
+     showborder="false"
+     showgrid="false"
+     id="namedview851"
+     inkscape:window-height="654"
+     inkscape:window-width="1366"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs841">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="208.64"
+       y1="210.11948"
+       x2="47.504"
+       x1="-53.799515"
+       id="linearGradient2357">
+      <stop
+         stop-color="#ef6f6c"
+         offset="0"
+         id="stop835"
+         style="stop-color:#0c9797;stop-opacity:1" />
+      <stop
+         style="stop-color:#1fc173;stop-opacity:1"
+         stop-color="#12dddd"
+         offset="1"
+         id="stop833" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.1342"
+       width="1.1451"
+       y="-.06712"
+       x="-.072567"
+       id="filter2387">
+      <feGaussianBlur
+         id="feGaussianBlur838"
+         stdDeviation="3.1469521" />
+    </filter>
+    <linearGradient
+       y2="208.64"
+       x2="47.504"
+       y1="210.11948"
+       x1="-53.799515"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient846"
+       xlink:href="#linearGradient2357"
+       inkscape:collect="always" />
+  </defs>
+  <metadata
+     id="metadata843">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g847"
+     transform="translate(63.566 -145.67)">
+    <path
+       id="path845"
+       stroke-width=".22331"
+       opacity=".79743"
+       filter="url(#filter2387)"
+       fill="url(#linearGradient2357)"
+       d="m-52.917 179.92c4.4934-7.5678 40.267-27.644 49.068-27.536s44.074 21.051 48.381 28.726c4.3072 7.6753 3.8062 48.694-0.68714 56.262-4.4934 7.5678-40.267 27.644-49.068 27.536-8.8006-0.10748-44.074-21.051-48.381-28.726-4.3072-7.6753-3.8062-48.694 0.68714-56.262z"
+       transform="matrix(.60366 0 0 .56623 -24.854 63.667)"
+       style="fill:url(#linearGradient846);fill-opacity:1" />
+  </g>
+</svg>
