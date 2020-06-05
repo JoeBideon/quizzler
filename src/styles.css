@@ -11,8 +11,8 @@ body {
     --primary-color: rgb(68, 26, 185);
     --secondary-color: rgb(120, 19, 113);
     /* font stuff */
-    --title-font: "Source Sans Pro";
-    --body-font: "Quicksand";
+    --title-font: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
+    --body-font: "Quicksand", Arial, Helvetica, sans-serif;
     font-size: 10px;
     font-family: var(--body-font);
     color: rgb(40, 40, 40);
@@ -21,7 +21,7 @@ body {
 /** universal styles */
 h1 {
     font-family: var(--title-font);
-    font-size: 2rem;
+    font-size: 3rem;
 }
 p {
     font-weight: 500;
@@ -38,7 +38,7 @@ a {
     border-radius: 5px;
 }
 a:hover {
-    transition-duration: 10s;
+    transition-duration: 2s;
     background: linear-gradient(
         90deg,
         var(--secondary-color),
@@ -69,4 +69,50 @@ a:hover {
 }
 .header__button {
     margin-left: 50px;
+}
+
+/** DESCRIPTION */
+.description {
+    margin: 20px;
+    display: flex;
+    flex-basis: 30%;
+}
+
+.description__image {
+    margin: 20px;
+    margin-right: 50px;
+    max-width: 500px;
+    justify-self: end;
+    margin-left: auto;
+}
+.description__container {
+    flex-basis: 50%;
+}
+
+/** FEATURE DISPLAY */
+.features {
+    text-align: center;
+}
+.features__title {
+    margin-bottom: 75px;
+}
+.features__container {
+    display: flex;
+    justify-content: space-around;
+}
+.features__card {
+    width: 300px;
+    height: 250px;
+    padding-top: 50px;
+    background: linear-gradient(var(--primary-color) 50px, transparent 50px);
+    box-shadow: 2px 3px 2px 3px lightgray;
+}
+.features__subtitle {
+    font-size: 2rem;
+    margin: 20px;
+    font-weight: 700;
+}
+.features__desc {
+    margin: 20px;
+    margin-top: 5px;
 }
